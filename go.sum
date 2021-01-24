@@ -1,2 +1,5 @@
 github.com/furuhama/codesearch v1.2.0-furuhama/go.mod h1:3sfd/v0wRb/BC4lU2fVjYU1dpvdtuC0OGI0CsdZABwE=
+github.com/furuhama/codesearch v1.2.1-furuhama h1:ecytEPFmVVoKjFfC6M/YXPXDkvw4+RK4z445p9LZTgw=
 github.com/furuhama/codesearch v1.2.1-furuhama/go.mod h1:3sfd/v0wRb/BC4lU2fVjYU1dpvdtuC0OGI0CsdZABwE=
+github.com/google/codesearch v1.2.0 h1:VlyAH+AntnIbGGArOUs6sEBdPVwYvf1e8Uw3/TC77cA=
+github.com/google/codesearch v1.2.0/go.mod h1:9wQjQDVAP7Mvt96tw1KqVeXncdBLOWUYdxRiHlsG6Xc=
